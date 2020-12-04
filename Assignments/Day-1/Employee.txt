@@ -1,4 +1,4 @@
-Create a Class Employee with te following specifications
+Create a Class Employee with the following specifications
 
 
 Properties
